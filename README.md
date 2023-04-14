@@ -24,8 +24,8 @@ Goal: To examinine a collection of data points (patients' data) and grouping the
 <h2> Insights </h2>
 <p>3 clusters were created.</p>
 <ol>
-<li> Cluster 0 and Cluster 1 have quite similar observation where their age, systolic, and diastolic BP are quite close except that the weight of Cluster 1 patients are highet than that of Cluster 0. </li>
-<li> Cluster 2 patients are younger whihc then explained the lower systolic and diastolic blood pressure supported by the lower height and weight too.</li>
+<li> Cluster 0 and Cluster 1 have quite similar observation where their age, systolic, and diastolic BP are quite close except that the weight of Cluster 1 patients are higher than that of Cluster 0. </li>
+<li> Cluster 2 patients are younger which then explained the lower systolic and diastolic blood pressure supported by the lower height and weight too.</li>
 </ol>
 
 </h2> Improvements </h2>
